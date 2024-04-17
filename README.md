@@ -46,3 +46,5 @@ How to run using DOSBox
    Once the game launches, you can start playing SimulChess8086 with a friend! Follow the on-screen instructions to make your moves and compete to capture your opponent's king.
 
 That's it! You've successfully launched SimulChess8086 using DOSBox. Have fun playing the game!
+
+SimulChess8086 is still under development. While the core functionality works perfectly, some features may be incomplete. Thank you for your understanding.
