@@ -1,6 +1,3 @@
-ChatGPT
-Certainly! Here's a description you could use for your repository:
-
 SimulChess8086
 
 SimulChess8086 is a simultaneous chess game implemented in assembly language (8086). Unlike traditional chess games, SimulChess8086 allows two players to engage in a thrilling battle simultaneously, with no need to wait for their opponent's move. The objective is simple: be the first to capture your opponent's king to claim victory.
